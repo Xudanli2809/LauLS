@@ -29,7 +29,7 @@ Syntax highlighted code block
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Music
-*[music](https://y.qq.com/n/yqq/song/001Nl0W80sBSwJ.html?ADTAG=baiduald&play=1)
+*[musicLIANGLIANG](https://y.qq.com/n/yqq/song/001Nl0W80sBSwJ.html?ADTAG=baiduald&play=1)
 
 ### Jekyll Themes
 
